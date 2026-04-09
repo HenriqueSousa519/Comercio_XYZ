@@ -1,4 +1,5 @@
 Sistema de Cadastro XYZ Comércio 🚀
+
 Este projeto é um sistema desktop de gerenciamento de clientes (CRUD) desenvolvido para o "XYZ Comércio". Ele possui uma interface gráfica amigável onde é possível cadastrar, visualizar, atualizar e deletar dados de clientes (CPF, Nome, E-mail, Telefone e Endereço). Todas as informações são salvas de forma segura em um banco de dados local.
 
 🔌 Como fazer funcionar na sua máquina:
